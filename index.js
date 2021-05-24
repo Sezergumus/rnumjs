@@ -1,0 +1,1 @@
+function randomNumber(a=0,b=10,c=0){if("number"!=typeof a||"number"!=typeof b)throw new TypeError("Expected all arguments to be numbers.");if(a>b)throw new RangeError(`Min can't be greater than max.`);return(Math.random()*(b-a)+a).toFixed(c)}module.exports.randomNumber=randomNumber;

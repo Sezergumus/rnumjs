@@ -1,0 +1,26 @@
+{
+  "name": "rnumjs",
+  "version": "1.0.0",
+  "description": "A light-weight module which generates random numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sezergumus/rnumjs.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "int",
+    "float",
+    "generator"
+  ],
+  "author": "Sezer Gümüş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sezergumus/rnumjs/issues"
+  },
+  "homepage": "https://github.com/Sezergumus/rnumjs#readme"
+}
